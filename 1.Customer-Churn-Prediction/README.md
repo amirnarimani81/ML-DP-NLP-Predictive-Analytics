@@ -296,7 +296,7 @@ DT.fit(X_train, y_train)
 </pre>
 
 
-<img src="assets/cat_feature_importance.png" width="400">
+<img src="Assests/DT.png" width="400">
 
 
 <hr>
