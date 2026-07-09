@@ -329,8 +329,8 @@ dt_results = evaluate_model(best_dt, "Decision Tree", X_smt, y_smt, X_test_p, y_
 </ul>
 
 
-<img src="Assets/2.png" width="500">
-<img src="Assets/pic3" width="500">
+<img src="Assests/2.png" width="500">
+<img src="Assests/pic3.png" width="500">
 
 
 <hr>
