@@ -1,0 +1,19 @@
+# Dataset files
+*.csv
+*.xlsx
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/API keys
+.env
+
+# Models
+*.pkl
+*.h5
+*.joblib
