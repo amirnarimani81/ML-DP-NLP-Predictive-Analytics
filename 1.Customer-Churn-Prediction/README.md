@@ -443,10 +443,10 @@ def model_prediction(model, name):
 </pre>
 
 
-<h2>ROC Curve Comparison</h2>
+<h2>Accuracy Curve Comparison</h2>
 
 <p>
-ROC curves were generated to compare model discrimination performance across thresholds.
+Accuracy curves were generated to compare model discrimination performance across thresholds.
 </p>
 
 <img src="Assests/comp2.png" width="450">
