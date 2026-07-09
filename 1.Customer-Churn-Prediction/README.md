@@ -99,11 +99,11 @@ data-driven retention strategies.
 EDA was performed to understand churn patterns and customer behavior.
 </p>
 
-<img src="assets/tenure_churn.png" width="300">
+<img src="Assests/output.png" width="300">
 
-<img src="assets/contract_churn.png" width="300">
+<img src="Assests/output2.png" width="300">
 
-<img src="assets/correlation_heatmap.png" width="300">
+<img src="Assests/output3.png" width="300">
 
 
 <p>
@@ -236,7 +236,7 @@ reg_lambda=1.0)
 </pre>
 
 
-<img src="assets/cat_feature_importance.png" width="400">
+<img src="Assests/output5.png" width="400">
 
 <hr>
 
@@ -392,7 +392,7 @@ print("Best ROC-AUC:", grid.best_score_)
 All models were evaluated using Accuracy, F1-score, and ROC-AUC metrics.
 </p>
 
-<img src="assets/model_comparison_bars.png" width="450">
+<img src="Assests/COMP.png" width="450">
 
 
 
@@ -449,7 +449,7 @@ def model_prediction(model, name):
 ROC curves were generated to compare model discrimination performance across thresholds.
 </p>
 
-<img src="assets/model_comparison_roc.png" width="450">
+<img src="Assests/comp2.png" width="450">
 <hr>
 
 
