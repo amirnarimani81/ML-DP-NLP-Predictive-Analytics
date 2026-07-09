@@ -329,13 +329,13 @@ dt_results = evaluate_model(best_dt, "Decision Tree", X_smt, y_smt, X_test_p, y_
 </ul>
 
 
-<img src="assets/model_comparison.png" width="500">
-<img src="assets/model_comparison.png" width="500">
+<img src="Assets/2.png" width="500">
+<img src="Assets/pic3" width="500">
 
 
 <hr>
 
-<h2>6. 🛠 Technologies Used</h2>
+<h2>6.  Technologies Used</h2>
 
 
 <ul>
