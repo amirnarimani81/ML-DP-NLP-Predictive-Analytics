@@ -126,7 +126,7 @@ Dataset contains no missing values and provides sufficient variation for modelin
 
 
 
-<img src="assets/distribution_quality_rating.png" width="450">
+<img src="Assests/output.png" width="450">
 
 
 <h3>Correlation Analysis</h3>
@@ -143,7 +143,7 @@ def corr_heat(dataset):
 </pre>
 
 
-<img src="assets/correlation_heatmap.png" width="450">
+<img src="Assests/1.png" width="450">
 
 
 
@@ -393,7 +393,7 @@ def ZF_RF_Regression(X_train, X_test, y_train, y_test, n_estimators=200, max_dep
 importance = pd.DataFrame({"Feature": X.columns,"Importance":model_rf.feature_importances_})
 importance.sort_values(by="Importance",ascending=False)
 </pre>
-<img src="assets/feature_importance_rf.png" width="450">
+<img src="Assests/pic2.png" width="450">
 
 
 
@@ -434,7 +434,7 @@ importance.sort_values(by="Importance",ascending=False)
 
 
 
-<img src="assets/model_comparison.png" width="500">
+<img src="Assests/pic3.png" width="500">
 
 
 
@@ -458,10 +458,10 @@ importance.sort_values(by="Importance",ascending=False)
 
 
 
-<img src="assets/rf_predicted_actual.png" width="450">
+<img src="Assests/pic4.png" width="450">
 
 
-<img src="assets/rf_residual_plot.png" width="450">
+<img src="Assests/pic5.png" width="450">
 
 <hr>
 
