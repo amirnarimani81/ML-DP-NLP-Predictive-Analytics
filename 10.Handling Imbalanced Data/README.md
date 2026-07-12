@@ -359,7 +359,7 @@ Precision / Recall / F1 / PR-AUC Analysis
 </table>
 
 
-<img src="assets/imbalance_model_comparison.png" width="500">
+<img src="Assests/output.png" width="500">
 
 
 <hr>
