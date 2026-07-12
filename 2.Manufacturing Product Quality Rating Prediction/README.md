@@ -434,7 +434,7 @@ importance.sort_values(by="Importance",ascending=False)
 
 
 
-<img src="Assests/pic3.png" width="500">
+<img src="Assests/pic7.png" width="500">
 
 
 
@@ -461,7 +461,7 @@ importance.sort_values(by="Importance",ascending=False)
 <img src="Assests/pic4.png" width="450">
 
 
-<img src="Assests/pic5.png" width="450">
+<img src="Assests/pic8.png" width="450">
 
 <hr>
 
